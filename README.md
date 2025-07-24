@@ -1,0 +1,2 @@
+# firstRepository
+GIT stadys Repository
