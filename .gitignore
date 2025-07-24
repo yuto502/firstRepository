@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+*.opendb
+GitTest/.vs/GitTest/FileContentIndex/284af6d5-ed27-4334-975a-4d42e50d427a.vsidx
+GitTest/.vs/GitTest/FileContentIndex/d000ff19-7964-4128-aa99-e2bdd4c3e804.vsidx
+GitTest/.vs/GitTest/v17/.suo
+GitTest/.vs/GitTest/v17/Browse.VC.db
+GitTest/.vs/GitTest/v17/Browse.VC.db-shm
+GitTest/.vs/GitTest/v17/Browse.VC.db-wal
